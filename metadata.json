@@ -1,0 +1,5 @@
+{
+  "name": "TourSafe Authority Dashboard",
+  "description": "A real-time monitoring dashboard for tourist safety, visualizing locations and high-priority alerts using AI, Geo-Fencing, and a simulated blockchain ID system. This MVP is built on a zero-cost infrastructure.",
+  "requestFramePermissions": []
+}

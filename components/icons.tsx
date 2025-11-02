@@ -1,0 +1,27 @@
+import React from 'react';
+import { ShieldAlert, Map, List, Signal, Copy, Check, ArrowUpDown, BellRing, User, Clock, BrainCircuit, Phone, HeartPulse, MapPin, UserCircle, ShieldCheck, Users, Shield, ShieldX, FileText, Search, LocateFixed, LayoutDashboard, Settings } from 'lucide-react';
+
+export const IconShieldAlert = (props: React.ComponentProps<typeof ShieldAlert>) => <ShieldAlert {...props} />;
+export const IconMap = (props: React.ComponentProps<typeof Map>) => <Map {...props} />;
+export const IconList = (props: React.ComponentProps<typeof List>) => <List {...props} />;
+export const IconSignal = (props: React.ComponentProps<typeof Signal>) => <Signal {...props} />;
+export const IconCopy = (props: React.ComponentProps<typeof Copy>) => <Copy {...props} />;
+export const IconCheck = (props: React.ComponentProps<typeof Check>) => <Check {...props} />;
+export const IconArrowUpDown = (props: React.ComponentProps<typeof ArrowUpDown>) => <ArrowUpDown {...props} />;
+export const IconBellRing = (props: React.ComponentProps<typeof BellRing>) => <BellRing {...props} />;
+export const IconUser = (props: React.ComponentProps<typeof User>) => <User {...props} />;
+export const IconClock = (props: React.ComponentProps<typeof Clock>) => <Clock {...props} />;
+export const IconBrainCircuit = (props: React.ComponentProps<typeof BrainCircuit>) => <BrainCircuit {...props} />;
+export const IconPhone = (props: React.ComponentProps<typeof Phone>) => <Phone {...props} />;
+export const IconHeartPulse = (props: React.ComponentProps<typeof HeartPulse>) => <HeartPulse {...props} />;
+export const IconMapPin = (props: React.ComponentProps<typeof MapPin>) => <MapPin {...props} />;
+export const IconUserCircle = (props: React.ComponentProps<typeof UserCircle>) => <UserCircle {...props} />;
+export const IconShieldCheck = (props: React.ComponentProps<typeof ShieldCheck>) => <ShieldCheck {...props} />;
+export const IconUsers = (props: React.ComponentProps<typeof Users>) => <Users {...props} />;
+export const IconShield = (props: React.ComponentProps<typeof Shield>) => <Shield {...props} />;
+export const IconShieldX = (props: React.ComponentProps<typeof ShieldX>) => <ShieldX {...props} />;
+export const IconFileText = (props: React.ComponentProps<typeof FileText>) => <FileText {...props} />;
+export const IconSearch = (props: React.ComponentProps<typeof Search>) => <Search {...props} />;
+export const IconLocateFixed = (props: React.ComponentProps<typeof LocateFixed>) => <LocateFixed {...props} />;
+export const IconLayoutDashboard = (props: React.ComponentProps<typeof LayoutDashboard>) => <LayoutDashboard {...props} />;
+export const IconSettings = (props: React.ComponentProps<typeof Settings>) => <Settings {...props} />;
